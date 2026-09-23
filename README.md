@@ -1,0 +1,1 @@
+I created a small website that helps people find outdoor places around the Grand Strand. I used AI to help plan the features and draft the initial HTML, CSS, and JavaScript. I’m reviewing and testing the code myself so I can explain how the search, filters, and saved places work.
